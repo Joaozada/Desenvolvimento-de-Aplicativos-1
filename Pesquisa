@@ -1,0 +1,46 @@
+Oque é um framework?
+
+
+podemos dizer que é uma espécie de template que conta com diversas funcionalidades
+que podem ser utilizados pelo desenvolvedor em seus projetos. 
+Ele conta com ferramentas, sistemas, componentes e guias que agilizam o processo de
+criação de soluções, sendo, portanto, um artifício essencial na vida de um profissional de TI.
+
+
+
+Vantagens de usar um framework:
+
+
+- Otimizar o tempo de desenvolvimento, uma vez que, com ele, o profissional não perderá tempo desenvolvendo tudo do zero;
+
+- Eles também contam com uma curva de aprendizagem simplificada e que normalmente é pequena. Inclusive, os frameworks mais 
+utilizados possuem uma grande quantidade de documentação e uma comunidade ativa, o que é sempre muito importante no compartilhamento e obtenção de conhecimento;
+
+- Outra vantagem diz respeito à segurança. Os frameworks mais usados normalmente dispõem de uma comunidade de desenvolvedores que está sempre empenhada em mantê-los 
+seguros, corrigindo rapidamente as vulnerabilidades encontradas;
+
+- Redução na incidência de bugs, pois os códigos dos frameworks costumam passar por diversos testes antes de serem disponibilizados;
+
+- Padronização de códigos, tendo em vista que o desenvolvedor deve seguir o mesmo padrão de codificação utilizado no framework;
+
+- Redução de custos operacionais, pois facilita e agiliza o desenvolvimento de um software;
+
+- Maior consistência das aplicações, visto que as falhas são menores do que se elas tivessem sido produzidas integralmente desde o início.
+
+Desvantagens de um framework: 
+
+
+- A segurança também pode ser vista uma desvantagem. Isso porque uma vulnerabilidade encontrada pode ser rapidamente difundida, podendo ser aproveitada
+por malfeitores da web;
+
+- Outra desvantagem, que também aparenta ser contraditório, é o fato de existirem diversos frameworks no mercado. Isso porque as chances de escolher o tipo inadequado é grande;
+
+
+Eles ainda trazem mais vantagens do que desvantagens, principalmente se você escolher trabalhar com o framework certo para o seu projeto.
+
+Exemplos de frameworks JAVA:
+
+1-Spring;
+2-Play;
+3- JSF (Java Server Faces);
+4-Hibernate;
